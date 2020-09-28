@@ -12,5 +12,10 @@ namespace BakeryProject.Controllers
         {
             return View();
         }
+
+        public void GetName()
+        {
+
+        }
     }
 }
